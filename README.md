@@ -11,3 +11,5 @@ About particle emission in 3D printing:<p>
 Sensor that can detect PM0.1 particles (ultra fine particles starting at 0.1um and below: this is the range where 3D printing emits...): <p>
 * IPS-7100: buying and documentation: https://fr.farnell.com/piera-systems/ips-7100-1/capteur-particule-air-5-5v/dp/4015788?pf_custSiteRedirect=true <p>
 * Arduino code: https://github.com/PieraSystems/7100-I2C-example <p>
+Can be useful to look at: <p>
+* Simple VOC emission monitor: https://hackaday.io/project/167424/instructions <p>
