@@ -16,4 +16,4 @@ Can be useful to look at: <p>
 * Simple VOC emission monitor: [https://hackaday.io/project/167424/instructions](https://hackaday.io/project/167424-smart-3d-printer-emission-monitor)https://hackaday.io/project/167424-smart-3d-printer-emission-monitor <p>
 
 # Sensors programming
-* VOC sensor MICS5524: https://wiki.dfrobot.com/Fermion__MEMS_Gas_Sensor___MiCS-5524_SKU_SEN0440 <p>
+* Gas sensor MICS5524: https://wiki.dfrobot.com/Fermion__MEMS_Gas_Sensor___MiCS-5524_SKU_SEN0440 <p>
