@@ -15,6 +15,9 @@ Sensor that can detect PM0.1 particles (ultra fine particles starting at 0.1um a
 Can be useful to look at: <p>
 * Simple VOC emission monitor: [https://hackaday.io/project/167424/instructions](https://hackaday.io/project/167424-smart-3d-printer-emission-monitor)https://hackaday.io/project/167424-smart-3d-printer-emission-monitor <p>
 
+# RP2040 RPI PICO board (for adxl and sensors)
+* https://github.com/EiNSTeiN-/klipper-rp2040-gpio-board <p>
+
 # Sensors programming
 * BMP/BME 280: https://circuitdigest.com/microcontroller-projects/interfacing-bmp280-sensor-with-arduino <p>
 * Gas sensor MICS5524: https://wiki.dfrobot.com/Fermion__MEMS_Gas_Sensor___MiCS-5524_SKU_SEN0440 <p>
