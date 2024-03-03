@@ -17,6 +17,7 @@ Can be useful to look at: <p>
 
 # RP2040 RPI PICO board (for adxl and sensors)
 * https://github.com/EiNSTeiN-/klipper-rp2040-gpio-board <p>
+* https://www.waveshare.com/wiki/RP2040-Zero#Open_Source_Demo <p>
 
 # Sensors programming
 * BMP/BME 280: https://circuitdigest.com/microcontroller-projects/interfacing-bmp280-sensor-with-arduino <p>
