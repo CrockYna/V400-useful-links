@@ -22,3 +22,6 @@ Can be useful to look at: <p>
 # Sensors programming
 * BMP/BME 280: https://circuitdigest.com/microcontroller-projects/interfacing-bmp280-sensor-with-arduino <p>
 * Gas sensor MICS5524: https://wiki.dfrobot.com/Fermion__MEMS_Gas_Sensor___MiCS-5524_SKU_SEN0440 <p>
+
+# Cam
+* ESP32-Cam programming: https://github.com/easytarget/esp32-cam-webserver <p>
