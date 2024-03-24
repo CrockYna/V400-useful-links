@@ -22,6 +22,8 @@ Can be useful to look at: <p>
 # Sensors programming
 * BMP/BME 280: https://circuitdigest.com/microcontroller-projects/interfacing-bmp280-sensor-with-arduino <p>
 * Gas sensor MICS5524: https://wiki.dfrobot.com/Fermion__MEMS_Gas_Sensor___MiCS-5524_SKU_SEN0440 <p>
+* CCS811: https://cdn.sparkfun.com/assets/2/c/c/6/5/CN04-2019_attachment_CCS811_Datasheet_v1-06.pdf ; https://github.com/maarten-pennings/CCS811 ; https://wiki.dfrobot.com/CCS811_Air_Quality_Sensor_SKU_SEN0339 <p>
+* PMS5003: https://cdn-shop.adafruit.com/product-files/3686/plantower-pms5003-manual_v2-3.pdf
 
 # Cam
 * ESP32-Cam programming: https://github.com/easytarget/esp32-cam-webserver <p>
