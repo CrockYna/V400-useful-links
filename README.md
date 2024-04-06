@@ -2,6 +2,7 @@
 Simple repo containing links useful for printing with FLSUN V400, got from anywhere on the web<p>
 Hotend change: https://www.lesimprimantes3d.fr/forum/topic/49962-flsun-v400-hotend-upgrade-trianglelab-chc-pro-bondtech-cht-volcano/ <p>
 Printer board: (mine is a nano v2.1 with GD32F303, which is a clone of MKS robin nano v2. I assume the board schema is almost the same.): https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X/wiki/Wiring_Pinout_and_Size <p> 
+Speeder pad wifi antenna mod: https://www.lesimprimantes3d.fr/forum/topic/49878-flsun-v400-speeder-pad-am%C3%A9lioration-du-wi-fi-antenne-externe/ <p>
 
 # Air filtering
 * A good filter, originally for Voron printers: https://github.com/nevermore3d/Nevermore_Micro <p>
