@@ -1,5 +1,5 @@
 # V400-useful-links
-Useful website with lot of interesting detqils: https://ellis3dp.com/Print-Tuning-Guide/ <p>
+Useful website with lot of interesting details: https://ellis3dp.com/Print-Tuning-Guide/ <p>
 Simple repo containing links useful for printing with FLSUN V400, got from anywhere on the web<p>
 Hotend change: https://www.lesimprimantes3d.fr/forum/topic/49962-flsun-v400-hotend-upgrade-trianglelab-chc-pro-bondtech-cht-volcano/ <p>
 Printer board: (mine is a nano v2.1 with GD32F303, which is a clone of MKS robin nano v2. I assume the board schema is almost the same.): https://github.com/makerbase-mks/MKS-Robin-Nano-V2.X/wiki/Wiring_Pinout_and_Size <p> 
