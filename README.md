@@ -8,6 +8,8 @@ NeoPixel: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-neopixel-ubergui
 
 # Air filtering
 * A good filter, originally for Voron printers: https://github.com/nevermore3d/Nevermore_Micro <p>
+* Piloting exhaust fan with Klipper: https://github.com/top-gun/Nevermore-Klipper/tree/main <p>
+* Air filter Klipper macros: https://github.com/MapleLeafMakers/KlipperMacros/tree/main <p>
 * About enclosures: https://howto3dprint.net/the-ultimate-guide-to-3d-printer-enclosures/ <p>
 About particle emission in 3D printing:<p>
 * https://all3dp.com/1/3d-printing-emissions-air-quality/ <p>
@@ -21,6 +23,10 @@ Can be useful to look at: <p>
 # RP2040 RPI PICO board (for adxl and sensors)
 * https://github.com/EiNSTeiN-/klipper-rp2040-gpio-board <p>
 * https://www.waveshare.com/wiki/RP2040-Zero#Open_Source_Demo <p>
+
+# Getting sensors output on Klipper, with RP2040 RPI PICO
+* https://github.com/Villiem/klipper_i2c <p>
+* https://github.com/Rappetor/Sovol-SV08-Mainline/tree/main/pico-thermistor <p>
 
 # Sensors programming
 * BMP/BME 280: https://circuitdigest.com/microcontroller-projects/interfacing-bmp280-sensor-with-arduino <p>
